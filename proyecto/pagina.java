@@ -15,6 +15,6 @@ public class pagina
      */
     public pagina()
     {
-        System.out.print("Probando Git con Mel");
+        System.out.print("Probando Git");
     }
 }
